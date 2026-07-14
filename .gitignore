@@ -1,0 +1,9 @@
+.idea/
+app/secure_config.py
+Pipfile
+Pipfile.lock
+app/__pycache__/
+app/models/__pycache__/
+app/validate/__pycache__/
+app/web/__pycache__/
+*~
